@@ -1,7 +1,6 @@
 package com.example.repository;
 
 import com.example.model.Salle;
-import com.example.model.Salle;
 
 import java.time.LocalDateTime;
 import java.util.List;

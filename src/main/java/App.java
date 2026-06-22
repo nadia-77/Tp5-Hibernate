@@ -1,5 +1,3 @@
-package $com.example;
-
 import com.example.model.Equipement;
 import com.example.model.Reservation;
 import com.example.model.Salle;
